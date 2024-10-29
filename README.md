@@ -1,4 +1,4 @@
-# React Basic Essentials
+# React Basic Essentials - Deep Dive
 
-React basic about JSX, component , etc
+More deep about react basic, what react can do 
 Lecture from Academind Maxemillian
